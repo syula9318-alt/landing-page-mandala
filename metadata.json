@@ -1,0 +1,6 @@
+{
+  "name": "Mandala Finance - Layanan Sales Pinjaman",
+  "description": "Layanan konsultasi dan pengajuan pembiayaan motor, mobil, dan multiguna langsung dibantu oleh sales resmi Mandala Finance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
